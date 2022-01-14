@@ -1,4 +1,4 @@
-# AI related security links
+# AI security related links
 ## ENISA (The European Network and Information Security Agency)
 * [AI Threat Landscape Report](https://www.enisa.europa.eu/publications/artificial-intelligence-cybersecurity-challenges)
 * [Artificial Intelligence Cybersecurity Challenges](https://www.enisa.europa.eu/publications/artificial-intelligence-cybersecurity-challenges)
