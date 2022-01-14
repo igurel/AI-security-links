@@ -29,3 +29,4 @@
 ## Other links
 * [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 * [The European Commission’s Artificial Intelligence Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206)
+* [The current state of AI security and AI safety standards in China, with reference to international standards](https://cset.georgetown.edu/wp-content/uploads/t0121_AI_security_standardization_white_paper_EN.pdf)
