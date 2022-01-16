@@ -22,11 +22,15 @@
 ## MITRE 
 * [MITRE - Adversarial ML 101](https://github.com/mitre/advmlthreatmatrix/blob/master/pages/adversarial-ml-101.md#adversarial-machine-learning-101)
 * [MITRE - Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix/)
+* [MITRE ATLAS, Adversarial Threat Landscape for Artificial-Intelligence Systems](https://atlas.mitre.org/)
 
 ## NIST (The National Institute of Standards and Technology)
 * [NISTIR 8269 - A Taxonomy and Terminology of Adversarial Machine Learning](https://csrc.nist.gov/publications/detail/nistir/8269/draft)
 
 ## Other links
 * [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+* [Europol: Malicious Uses and Abuses of Artificial Intelligence](https://www.europol.europa.eu/publications-events/publications/malicious-uses-and-abuses-of-artificial-intelligence)
+* [Stiftung Neue Verantwortung: Securing Artificial Intelligence](https://www.stiftung-nv.de/en/node/2650)
 * [The European Commission’s Artificial Intelligence Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206)
+* [The European Commission Whitepaper: On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 * [The current state of AI security and AI safety standards in China, with reference to international standards](https://cset.georgetown.edu/wp-content/uploads/t0121_AI_security_standardization_white_paper_EN.pdf)
