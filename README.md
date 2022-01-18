@@ -34,7 +34,6 @@
 * [Entangled Watermarks as a Defense against Model Extraction](https://arxiv.org/abs/2002.12200)
 * [Europol: Malicious Uses and Abuses of Artificial Intelligence](https://www.europol.europa.eu/publications-events/publications/malicious-uses-and-abuses-of-artificial-intelligence)
 * [Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning](https://arxiv.org/abs/1804.00308)
-* 
 * [NVIDIA Developer Blog - Federated Learning with Homomorphic Encryption](https://developer.nvidia.com/blog/federated-learning-with-homomorphic-encryption/)
 * [NVIDIA Morpheus AI Cybersecurity Framework](https://developer.nvidia.com/morpheus-cybersecurity)
 * [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
