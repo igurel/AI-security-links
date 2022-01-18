@@ -3,6 +3,7 @@
 * [AI Threat Landscape Report](https://www.enisa.europa.eu/publications/artificial-intelligence-cybersecurity-challenges)
 * [Artificial Intelligence Cybersecurity Challenges](https://www.enisa.europa.eu/publications/artificial-intelligence-cybersecurity-challenges)
 * [Artificial Intelligence: How to make Machine Learning Cyber Secure?](https://www.enisa.europa.eu/news/artificial-intelligence-how-to-make-machine-learning-cyber-secure)
+* [Securing Machine Learning Algorithms](https://www.enisa.europa.eu/publications/securing-machine-learning-algorithms)
 
 ## ETSI (The European Telecommunications Standards Institute)
 * [Securing Artificial Intelligence (SAI) Mitigation Strategy Report](https://www.etsi.org/deliver/etsi_gr/SAI/001_099/005/01.01.01_60/gr_SAI005v010101p.pdf)
@@ -29,11 +30,17 @@
 
 ## Other links
 * [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+* [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
+* [Entangled Watermarks as a Defense against Model Extraction](https://arxiv.org/abs/2002.12200)
 * [Europol: Malicious Uses and Abuses of Artificial Intelligence](https://www.europol.europa.eu/publications-events/publications/malicious-uses-and-abuses-of-artificial-intelligence)
+* [Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning](https://arxiv.org/abs/1804.00308)
+* 
 * [NVIDIA Developer Blog - Federated Learning with Homomorphic Encryption](https://developer.nvidia.com/blog/federated-learning-with-homomorphic-encryption/)
 * [NVIDIA Morpheus AI Cybersecurity Framework](https://developer.nvidia.com/morpheus-cybersecurity)
+* [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
 * [Privacy-Preserving Machine Learning: Methods, Challenges and Directions](https://arxiv.org/abs/2108.04417)
 * [PyTorch PPML Framework Tutorial](https://graphene.readthedocs.io/en/latest/tutorials/pytorch/index.html)
+* [Stealing Machine Learning Models via Prediction API](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf)
 * [Stiftung Neue Verantwortung: Securing Artificial Intelligence](https://www.stiftung-nv.de/en/node/2650)
 * [The European Commission’s Artificial Intelligence Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206)
 * [The European Commission Whitepaper: On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
