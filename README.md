@@ -28,16 +28,18 @@
 ## NIST (The National Institute of Standards and Technology)
 * [NISTIR 8269 - A Taxonomy and Terminology of Adversarial Machine Learning](https://csrc.nist.gov/publications/detail/nistir/8269/draft)
 
+## Articles
+* [Deep Learning with Differential Privacy - Abadi et al](https://arxiv.org/abs/1607.00133)
+* [Entangled Watermarks as a Defense against Model Extraction - Jia et al](https://arxiv.org/abs/2002.12200)
+* [Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning - Jagielski et al](https://arxiv.org/abs/1804.00308)
+* [Practical Black-Box Attacks against Machine Learning - Papernot et al](https://arxiv.org/abs/1602.02697)
+* [Privacy-Preserving Machine Learning: Methods, Challenges and Directions - R Xu et al](https://arxiv.org/abs/2108.04417)
+
 ## Other links
 * [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
-* [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
-* [Entangled Watermarks as a Defense against Model Extraction](https://arxiv.org/abs/2002.12200)
 * [Europol: Malicious Uses and Abuses of Artificial Intelligence](https://www.europol.europa.eu/publications-events/publications/malicious-uses-and-abuses-of-artificial-intelligence)
-* [Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning](https://arxiv.org/abs/1804.00308)
 * [NVIDIA Developer Blog - Federated Learning with Homomorphic Encryption](https://developer.nvidia.com/blog/federated-learning-with-homomorphic-encryption/)
 * [NVIDIA Morpheus AI Cybersecurity Framework](https://developer.nvidia.com/morpheus-cybersecurity)
-* [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
-* [Privacy-Preserving Machine Learning: Methods, Challenges and Directions](https://arxiv.org/abs/2108.04417)
 * [PyTorch PPML Framework Tutorial](https://graphene.readthedocs.io/en/latest/tutorials/pytorch/index.html)
 * [Stealing Machine Learning Models via Prediction API](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf)
 * [Stiftung Neue Verantwortung: Securing Artificial Intelligence](https://www.stiftung-nv.de/en/node/2650)
