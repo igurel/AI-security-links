@@ -30,6 +30,10 @@
 ## Other links
 * [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 * [Europol: Malicious Uses and Abuses of Artificial Intelligence](https://www.europol.europa.eu/publications-events/publications/malicious-uses-and-abuses-of-artificial-intelligence)
+* [NVIDIA Developer Blog - Federated Learning with Homomorphic Encryption](https://developer.nvidia.com/blog/federated-learning-with-homomorphic-encryption/)
+* [NVIDIA Morpheus AI Cybersecurity Framework](https://developer.nvidia.com/morpheus-cybersecurity)
+* [Privacy-Preserving Machine Learning: Methods, Challenges and Directions](https://arxiv.org/abs/2108.04417)
+* [PyTorch PPML Framework Tutorial](https://graphene.readthedocs.io/en/latest/tutorials/pytorch/index.html)
 * [Stiftung Neue Verantwortung: Securing Artificial Intelligence](https://www.stiftung-nv.de/en/node/2650)
 * [The European Commission’s Artificial Intelligence Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206)
 * [The European Commission Whitepaper: On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
