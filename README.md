@@ -15,10 +15,10 @@
 * [Confidential AI - Confidential ONNX Inference Server](https://github.com/microsoft/onnx-server-openenclave)
 * [Counterfit](https://github.com/Azure/counterfit/)
 * [Failure Modes in Machine Learning](https://docs.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning)
+* [Practical application of artificial intelligence that can transform cybersecurity](https://www.microsoft.com/security/blog/2018/09/05/practical-application-of-artificial-intelligence-that-can-transform-cybersecurity/)
 * [Privacy Preserving Machine Learning: Maintaining confidentiality and preserving trust](https://www.microsoft.com/en-us/research/blog/privacy-preserving-machine-learning-maintaining-confidentiality-and-preserving-trust/)
 * [Securing the Future of Artificial Intelligence and Machine Learning at Microsoft](https://docs.microsoft.com/en-us/security/engineering/securing-artificial-intelligence-machine-learning)
 * [Threat Modeling AI/ML Systems and Dependencies](https://docs.microsoft.com/en-us/security/engineering/threat-modeling-aiml)
-* [Practical application of artificial intelligence that can transform cybersecurity](https://www.microsoft.com/security/blog/2018/09/05/practical-application-of-artificial-intelligence-that-can-transform-cybersecurity/)
 
 ## MITRE 
 * [MITRE - Adversarial ML 101](https://github.com/mitre/advmlthreatmatrix/blob/master/pages/adversarial-ml-101.md#adversarial-machine-learning-101)
@@ -35,8 +35,12 @@
 * [Practical Black-Box Attacks against Machine Learning - Papernot et al](https://arxiv.org/abs/1602.02697)
 * [Privacy-Preserving Machine Learning: Methods, Challenges and Directions - R Xu et al](https://arxiv.org/abs/2108.04417)
 
+## E-books
+* [The Coming AI Hackers, Bruce Schneier](https://www.schneier.com/wp-content/uploads/2021/04/The-Coming-AI-Hackers.pdf)
+
 ## Other links
 * [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+* [DARPA GARD (Guaranteeing AI Robustness to Deception) Project](https://www.gardproject.org/)
 * [Europol: Malicious Uses and Abuses of Artificial Intelligence](https://www.europol.europa.eu/publications-events/publications/malicious-uses-and-abuses-of-artificial-intelligence)
 * [NVIDIA Developer Blog - Federated Learning with Homomorphic Encryption](https://developer.nvidia.com/blog/federated-learning-with-homomorphic-encryption/)
 * [NVIDIA Morpheus AI Cybersecurity Framework](https://developer.nvidia.com/morpheus-cybersecurity)
