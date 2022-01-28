@@ -50,3 +50,4 @@
 * [The European Commission’s Artificial Intelligence Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206)
 * [The European Commission Whitepaper: On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 * [The current state of AI security and AI safety standards in China, with reference to international standards](https://cset.georgetown.edu/wp-content/uploads/t0121_AI_security_standardization_white_paper_EN.pdf)
+* [Trustworthy Machine Learning course materials, Nicolas Papernot](https://www.papernot.fr/teaching/f21-trustworthy-ml.html)
