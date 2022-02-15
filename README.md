@@ -26,10 +26,12 @@
 * [MITRE ATLAS, Adversarial Threat Landscape for Artificial-Intelligence Systems](https://atlas.mitre.org/)
 
 ## NIST (The National Institute of Standards and Technology)
+* [NISTIR 8332 - Trust and Artificial Intelligence](https://www.nist.gov/publications/trust-and-artificial-intelligence)
 * [NISTIR 8269 - A Taxonomy and Terminology of Adversarial Machine Learning](https://csrc.nist.gov/publications/detail/nistir/8269/draft)
 
 ## Articles
 * [Deep Learning with Differential Privacy - Abadi et al](https://arxiv.org/abs/1607.00133)
+* [Dos and Don'ts of Machine Learning in Computer Security - Arp et al](https://arxiv.org/abs/2010.09470)
 * [Entangled Watermarks as a Defense against Model Extraction - Jia et al](https://arxiv.org/abs/2002.12200)
 * [Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning - Jagielski et al](https://arxiv.org/abs/1804.00308)
 * [On Adaptive Attacks to Adversarial Example Defenses - Florian Tramer et al](https://arxiv.org/abs/2002.08347) -- [[slides]](https://www.usenix.org/system/files/scainet20_2_slides_tramer.pdf) [[video]](https://youtu.be/ZFdtBA4eAgc)
@@ -37,8 +39,9 @@
 * [Privacy-Preserving Machine Learning: Methods, Challenges and Directions - R Xu et al](https://arxiv.org/abs/2108.04417)
 
 ## Blogs
-* [DoD - AI in Defense](https://www.ai.mil/blog.html)
 * [F-Secure AI Security Blog](https://blog.f-secure.com/artificial-intelligence-cyber-security/)
+* [Google AI Blog](https://ai.googleblog.com/)
+* [OpenAI Blog](https://openai.com/blog/)
 * [Microsoft Security Blog - AI/ML](https://www.microsoft.com/security/blog/ai-and-machine-learning/)
 
 ## E-books
