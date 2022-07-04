@@ -38,6 +38,15 @@
 * [Practical Black-Box Attacks against Machine Learning - Papernot et al](https://arxiv.org/abs/1602.02697)
 * [Privacy-Preserving Machine Learning: Methods, Challenges and Directions - R Xu et al](https://arxiv.org/abs/2108.04417)
 
+## Arm & Linaro
+* Linaro and Arm Confidential AI Tech Event, June 28th, 2022
+  * [Confidential AI: Secure Data Processing Pipeline](https://resources.linaro.org/en/resource/kPgbJxx8LQcLaiPTWcSxyF)
+  * [Confidential AI: Building confidence in your ML models](https://resources.linaro.org/en/resource/6PZvzPF63hmkC1Qjtf4vMU)
+  * [Confidential AI: Arduino Pro’s recipe](https://resources.linaro.org/en/resource/b3TspS9t7A87CYnAUkCpwr)
+  * [Confidential AI: Towards Pervasive and Trustworthy Artificial Intelligence](https://resources.linaro.org/en/resource/2pHp67cu4b1x6fTH6AzV4T)
+  * [Confidential AI: Smart Homes without Spying](https://resources.linaro.org/en/resource/eXQV1GBqj2GbMmgmLV4388)
+  * [Confidential AI: ... on Arm, why, what and how?](https://resources.linaro.org/en/resource/5sTeaBVqsLumsh5JW9oXj3)
+
 ## Blogs
 * [F-Secure AI Security Blog](https://blog.f-secure.com/artificial-intelligence-cyber-security/)
 * [Google AI Blog](https://ai.googleblog.com/)
@@ -46,6 +55,9 @@
 
 ## E-books
 * [The Coming AI Hackers, Bruce Schneier](https://www.schneier.com/wp-content/uploads/2021/04/The-Coming-AI-Hackers.pdf)
+
+## Standards
+* [MPAI-AIF (Moving Picture, Audio and Data Coding by Artificial Intelligence - Artificial Intelligence Framework)](https://mpai.community/standards/mpai-aif/)
 
 ## Other links
 * [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
