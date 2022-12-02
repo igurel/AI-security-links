@@ -68,6 +68,7 @@
 * [PyTorch PPML Framework Tutorial](https://graphene.readthedocs.io/en/latest/tutorials/pytorch/index.html)
 * [Stealing Machine Learning Models via Prediction API](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf)
 * [Stiftung Neue Verantwortung: Securing Artificial Intelligence](https://www.stiftung-nv.de/en/node/2650)
+* [The Conference on Applied Machine Learning in Information Security (CAMLIS) sessions and slides](https://www.camlis.org/2022-conference)
 * [The European Commission’s Artificial Intelligence Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206)
 * [The European Commission Whitepaper: On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 * [The current state of AI security and AI safety standards in China, with reference to international standards](https://cset.georgetown.edu/wp-content/uploads/t0121_AI_security_standardization_white_paper_EN.pdf)
