@@ -8,6 +8,10 @@
 ## ETSI (The European Telecommunications Standards Institute)
 * [Securing Artificial Intelligence (SAI) Mitigation Strategy Report](https://www.etsi.org/deliver/etsi_gr/SAI/001_099/005/01.01.01_60/gr_SAI005v010101p.pdf)
 
+## The European Commision
+* [EU’s policy on trustworthy AI](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
+* [Proposal for a Regulation laying down harmonised rules on AI](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence)
+
 ## Microsoft
 * [AI/ML Pivots to the Security Development Lifecycle Bug Bar](https://docs.microsoft.com/en-us/security/engineering/bug-bar-aiml)
 * [AI security risk assessment using Counterfit](https://www.microsoft.com/security/blog/2021/05/03/ai-security-risk-assessment-using-counterfit/)
