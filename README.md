@@ -23,6 +23,13 @@
 * [Privacy Preserving Machine Learning: Maintaining confidentiality and preserving trust](https://www.microsoft.com/en-us/research/blog/privacy-preserving-machine-learning-maintaining-confidentiality-and-preserving-trust/)
 * [Securing the Future of Artificial Intelligence and Machine Learning at Microsoft](https://docs.microsoft.com/en-us/security/engineering/securing-artificial-intelligence-machine-learning)
 * [Threat Modeling AI/ML Systems and Dependencies](https://docs.microsoft.com/en-us/security/engineering/threat-modeling-aiml)
+* [Unlocking the potential of Privacy-Preserving AI with Azure Confidential Computing on NVIDIA H100](https://techcommunity.microsoft.com/t5/azure-confidential-computing/unlocking-the-potential-of-privacy-preserving-ai-with-azure/ba-p/3776838)
+
+## NVIDIA
+* [Modernize Cybersecurity With AI](https://www.nvidia.com/en-us/industries/cybersecurity/)
+* [NVIDIA Developer Blog - Federated Learning with Homomorphic Encryption](https://developer.nvidia.com/blog/federated-learning-with-homomorphic-encryption/)
+* [NVIDIA GPU Confidential Computing](https://blogs.nvidia.com/blog/2023/03/01/what-is-confidential-computing/)
+* [NVIDIA Morpheus AI Cybersecurity Framework](https://developer.nvidia.com/morpheus-cybersecurity)
 
 ## MITRE 
 * [MITRE - Adversarial ML 101](https://github.com/mitre/advmlthreatmatrix/blob/master/pages/adversarial-ml-101.md#adversarial-machine-learning-101)
@@ -30,6 +37,7 @@
 * [MITRE ATLAS, Adversarial Threat Landscape for Artificial-Intelligence Systems](https://atlas.mitre.org/)
 
 ## NIST (The National Institute of Standards and Technology)
+* [NIST Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://www.nist.gov/news-events/news/2023/01/nist-risk-management-framework-aims-improve-trustworthiness-artificial)
 * [NISTIR 8332 - Trust and Artificial Intelligence](https://www.nist.gov/publications/trust-and-artificial-intelligence)
 * [NISTIR 8269 - A Taxonomy and Terminology of Adversarial Machine Learning](https://csrc.nist.gov/publications/detail/nistir/8269/draft)
 
@@ -56,6 +64,7 @@
 * [Google AI Blog](https://ai.googleblog.com/)
 * [OpenAI Blog](https://openai.com/blog/)
 * [Microsoft Security Blog - AI/ML](https://www.microsoft.com/security/blog/ai-and-machine-learning/)
+* [NVIDIA Blog](https://blogs.nvidia.com/)
 
 ## E-books
 * [The Coming AI Hackers, Bruce Schneier](https://www.schneier.com/wp-content/uploads/2021/04/The-Coming-AI-Hackers.pdf)
@@ -67,8 +76,7 @@
 * [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 * [DARPA GARD (Guaranteeing AI Robustness to Deception) Project](https://www.gardproject.org/)
 * [Europol: Malicious Uses and Abuses of Artificial Intelligence](https://www.europol.europa.eu/publications-events/publications/malicious-uses-and-abuses-of-artificial-intelligence)
-* [NVIDIA Developer Blog - Federated Learning with Homomorphic Encryption](https://developer.nvidia.com/blog/federated-learning-with-homomorphic-encryption/)
-* [NVIDIA Morpheus AI Cybersecurity Framework](https://developer.nvidia.com/morpheus-cybersecurity)
+* [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
 * [PyTorch PPML Framework Tutorial](https://graphene.readthedocs.io/en/latest/tutorials/pytorch/index.html)
 * [Stealing Machine Learning Models via Prediction API](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf)
 * [Stiftung Neue Verantwortung: Securing Artificial Intelligence](https://www.stiftung-nv.de/en/node/2650)
